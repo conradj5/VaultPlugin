@@ -1,0 +1,6 @@
+C:\Users\Jonathan\Dropbox\Games\RotMG\Plugins\Vault Helper\Vault Helper\Vault Helper\obj\Debug\Vault Helper.pdb
+C:\Users\Jonathan\Dropbox\Games\RotMG\Plugins\Vault Helper\Vault Helper\Vault Helper\bin\Debug\Vault Helper.dll
+C:\Users\Jonathan\Dropbox\Games\RotMG\Plugins\Vault Helper\Vault Helper\Vault Helper\bin\Debug\Vault Helper.pdb
+C:\Users\Jonathan\Dropbox\Games\RotMG\Plugins\Vault Helper\Vault Helper\Vault Helper\bin\Debug\Lib K Relay.dll
+C:\Users\Jonathan\Dropbox\Games\RotMG\Plugins\Vault Helper\Vault Helper\Vault Helper\obj\Debug\Vault Helper.dll
+C:\Users\Jonathan\Dropbox\Games\RotMG\Plugins\Vault Helper\Vault Helper\Vault Helper\obj\Debug\Vault Helper.csprojResolveAssemblyReference.cache
